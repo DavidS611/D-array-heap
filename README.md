@@ -34,4 +34,6 @@ The file specified should contain integers separated by whitespaces or commas.
 - `read_numbers(heap_, filename)`: Reads integers from a file and inserts them into a heap.
 - `get_d_array()`: Gets the 'd' value from the user.
 
+## Example
 
+![Local Image](example.png)
