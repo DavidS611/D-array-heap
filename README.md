@@ -7,10 +7,10 @@ This Python script implements a D-Array Max Heap, a variant of a max heap where 
 1. Run the script using the command:
 
     ```bash
-    python script_name.py file_name.txt
+    python d-array-heap.py file_name.txt
     ```
 
-    Replace `script_name.py` with the name of the script file, and `file_name.txt` with the name of the file containing integers separated by whitespace or commas.
+    Replace `file_name.txt` with the name of the file containing integers separated by whitespace or commas.
 
 2. The script will prompt you to enter the value of 'd' for the D-Array Max Heap.
 
@@ -34,8 +34,4 @@ The file specified should contain integers separated by whitespaces or commas.
 - `read_numbers(heap_, filename)`: Reads integers from a file and inserts them into a heap.
 - `get_d_array()`: Gets the 'd' value from the user.
 
-## Example
-
-```bash
-python script_name.py input_numbers.txt
 
